@@ -1,6 +1,6 @@
-# 📦 Projeto Conceitual de Banco de Dados – E-commerce
+# Projeto Conceitual de Banco de Dados – E-commerce
 
-## 📖 Descrição do Projeto
+## Descrição do Projeto
 Este projeto apresenta a modelagem completa de um banco de dados para um sistema
 de e-commerce, desenvolvida como desafio de projeto.
 
@@ -10,7 +10,7 @@ atendendo às regras de negócio propostas.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 - Modelar clientes Pessoa Física (PF) e Pessoa Jurídica (PJ), garantindo que uma
   conta não possa possuir ambos os tipos simultaneamente
 - Permitir que um cliente cadastre múltiplas formas de pagamento
@@ -18,7 +18,7 @@ atendendo às regras de negócio propostas.
 
 ---
 
-## 🧩 Regras de Negócio
+## Regras de Negócio
 - Um cliente pode ser PF ou PJ, nunca os dois
 - Um cliente pode possuir uma ou mais formas de pagamento
 - Um cliente pode realizar vários pedidos
@@ -27,19 +27,19 @@ atendendo às regras de negócio propostas.
 
 ---
 
-## 🧠 Modelagem do Banco de Dados
+## Modelagem do Banco de Dados
 A modelagem foi documentada por meio de **descrição conceitual e modelo lógico**,
 sem utilização de diagrama gráfico, garantindo clareza na definição das entidades,
 atributos, relacionamentos e restrições do sistema.
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## Estrutura do Projeto
 - `modelo/`: documentação do modelo conceitual e do modelo lógico
 - `sql/`: scripts SQL para criação das tabelas, inserção de dados e consultas
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Modelagem de Dados
 - SQL (MySQL)
